@@ -10,7 +10,7 @@ The system analyzes input symptoms against a professional Knowledge Base to prov
 
 ### Video Demonstration
 
-<video src="https://github.com/YOUR-USERNAME/YOUR-REPO-NAME/blob/main/Demo_AI_Diagnostic_Expert_System.mp4?raw=true" controls="controls" width="100%">
+<video src="https://github.com/basit-02/AI_Diagnostic_Expert_System/blob/main/Demo_AI_Diagnostic_Expert_System.mp4?raw=true" controls="controls" width="100%">
 </video>
 
 ### System Architecture
