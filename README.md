@@ -10,8 +10,7 @@ The system analyzes input symptoms against a professional Knowledge Base to prov
 
 ### Video Demonstration
 
-<video src="https://github.com/basit-02/AI_Diagnostic_Expert_System/blob/main/Demo_AI_Diagnostic_Expert_System.mp4?raw=true" controls="controls" width="100%">
-</video>
+https://github.com/user-attachments/assets/6740f5b4-e1a8-47f2-8ea6-b32ca61ca539
 
 ### System Architecture
 The application is built entirely in Python and deployed via Streamlit. The architecture separates the knowledge base from the inference engine using Object Oriented Programming principles. 
