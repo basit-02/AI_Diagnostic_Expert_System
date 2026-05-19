@@ -5,7 +5,7 @@ This repository contains the deployment code for an intelligent medical diagnost
 The system analyzes input symptoms against a professional Knowledge Base to provide a ranked list of potential diagnoses. Instead of relying on rigid binary logic, it utilizes a confidence weighted forward chaining engine to calculate probability matches, mirroring real world diagnostic nuances.
 
 ### Project Links
-* GitHub Repository: [Insert Your GitHub Repo Link Here]
+* GitHub Repository: https://github.com/basit-02/AI_Diagnostic_Expert_System.git
 * Live Application: https://huggingface.co/spaces/basit02-memon/AI-diagnostic-expert-system
 
 ### Video Demonstration
