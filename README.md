@@ -11,10 +11,7 @@ The system analyzes input symptoms against a professional Knowledge Base to prov
 ### Video Demonstration
 Below is a demonstration of the system executing an inference cycle based on patient symptom manifestation:
 
-<video src="Demo_AI_Diagnostic_Expert_System.mp4" controls="controls" width="100%">
-  Your browser does not support the video tag.
-</video>
-*(Note: If viewing on GitHub, you can also use the standard markdown format: `![Demo](Demo_AI_Diagnostic_Expert_System.mp4)` to render the video natively).*
+[▶️ Click here to watch the Video Demonstration](./Demo_AI_Diagnostic_Expert_System.mp4)
 
 ### System Architecture
 The application is built entirely in Python and deployed via Streamlit. The architecture separates the knowledge base from the inference engine using Object Oriented Programming principles. 
