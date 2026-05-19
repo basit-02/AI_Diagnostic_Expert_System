@@ -9,9 +9,9 @@ The system analyzes input symptoms against a professional Knowledge Base to prov
 * Live Application: https://huggingface.co/spaces/basit02-memon/AI-diagnostic-expert-system
 
 ### Video Demonstration
-Below is a demonstration of the system executing an inference cycle based on patient symptom manifestation:
 
-[▶️ Click here to watch the Video Demonstration](./Demo_AI_Diagnostic_Expert_System.mp4)
+<video src="https://github.com/YOUR-USERNAME/YOUR-REPO-NAME/blob/main/Demo_AI_Diagnostic_Expert_System.mp4?raw=true" controls="controls" width="100%">
+</video>
 
 ### System Architecture
 The application is built entirely in Python and deployed via Streamlit. The architecture separates the knowledge base from the inference engine using Object Oriented Programming principles. 
