@@ -10,7 +10,7 @@ The system analyzes input symptoms against a professional Knowledge Base to prov
 
 ### Video Demonstration
 
-https://github.com/user-attachments/assets/6740f5b4-e1a8-47f2-8ea6-b32ca61ca539
+https://github.com/user-attachments/assets/8c3e1624-ee82-4e4e-abeb-3056dfa9a501
 
 ### System Architecture
 The application is built entirely in Python and deployed via Streamlit. The architecture separates the knowledge base from the inference engine using Object Oriented Programming principles. 
