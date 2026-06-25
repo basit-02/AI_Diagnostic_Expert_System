@@ -8,9 +8,9 @@ The system analyzes input symptoms against a professional Knowledge Base to prov
 * GitHub Repository: https://github.com/basit-02/AI_Diagnostic_Expert_System.git
 * Live Application: https://huggingface.co/spaces/basit02-memon/AI-diagnostic-expert-system
 
-### Video Demonstration
-
-https://github.com/user-attachments/assets/8c3e1624-ee82-4e4e-abeb-3056dfa9a501
+### Demo Images
+<img width="1350" height="641" alt="Demo_Image_Expert_System" src="https://github.com/user-attachments/assets/1778c11c-e23d-46c4-be40-71ec21268241" />
+<img width="1342" height="639" alt="Demo_Image_Expert_System_Rules" src="https://github.com/user-attachments/assets/1423c878-e7c3-4c68-9e46-6949daacb5c0" />
 
 ### System Architecture
 The application is built entirely in Python and deployed via Streamlit. The architecture separates the knowledge base from the inference engine using Object Oriented Programming principles. 
